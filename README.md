@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm ALLAMADJI DJIMRASSEM Innocent</h1>
+<h2 align="center">Hi 👋, I'm ALLAMADJI DJIMRASSEM Innocent</h2>
 <h3 align="center">Un Data developper</h3>
 
 <p align="left"> <a href="https://twitter.com/all_djim" target="blank"><img src="https://img.shields.io/twitter/follow/all_djim?logo=twitter&style=for-the-badge" alt="all_djim" /></a> </p>
 
-- 🌱 I’m currently learning **Frameworks, base de donnéés, python**
+- 🌱 j'apprends actuellement **Frameworks, base de donnéés, python**
 
 - 📝 I regularly write articles on [https://www.facebook.com/profile.php?id=100088193981070](https://www.facebook.com/profile.php?id=100088193981070)
 
