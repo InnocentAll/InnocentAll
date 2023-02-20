@@ -1,4 +1,4 @@
-<h2 align="center">Salut 👋, je suis ALLAMADJI DJIMRASSEM Innocent</h2>
+<h2 align="center">Salut 👋, je suis ALLAMADJI DJIMRASSEM Innocent</h2><p><img align="left" src="" alt="innocentall" /></p>
 <p align="center">Actuellement en formation de Developper Data,chez Tech4 Tchad,un programme porté par Simplon, Makesense, l'IRD, financé par l'ambassade de France.</p>
 
 
