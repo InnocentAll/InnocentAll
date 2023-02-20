@@ -7,7 +7,7 @@
 
 - 🌱 j'apprends actuellement **Frameworks, base de donnéés, python,git et github**
 
-- 👨‍💻 Tous mes projets sont disponibles at [https://github.com/InnocentAll](https://github.com/InnocentAll)
+- 👨‍💻 Tous mes projets sont disponibles [ici](https://github.com/InnocentAll)
 
 - 📝 J'écris régulièrement des articles sur [https://www.facebook.com/profile.php?id=100088193981070](https://www.facebook.com/profile.php?id=100088193981070)
 
