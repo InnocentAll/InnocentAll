@@ -9,13 +9,13 @@
 
 - 👨‍💻 Tous mes projets sont disponibles [ici](https://github.com/InnocentAll)
 
-- 📝 J'écris régulièrement des articles sur [https://www.facebook.com/profile.php?id=100088193981070](https://www.facebook.com/profile.php?id=100088193981070)
+- 📝 J'écris régulièrement des articles sur [ma_page](https://www.facebook.com/profile.php?id=100088193981070)
 
 - 📫 Comment me joindre **allamdjidjimrasseminnocent@gmail.com**
 
-- 📄 Connaître mes expériences [https://innocentall.github.io/](https://innocentall.github.io/)
+- 📄 Connaître mes expériences [mon_site](https://innocentall.github.io/)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Trouvez moi:</h3>
 <p align="left">
 <a href="https://twitter.com/all_djim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="all_djim" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/feed/" height="30" width="40" /></a>
