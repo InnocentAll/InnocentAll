@@ -1,5 +1,5 @@
 <h2 align="center">Salut 👋, je suis ALLAMADJI DJIMRASSEM Innocent</h2>
-<h4 align="center">Actuellement en formation de Developper Data,chez Tech4 Tchad,un programme porté par Simplon, Makesense, l'IRD, financé par l'ambassade de France.</h4>
+<p align="center">Actuellement en formation de Developper Data,chez Tech4 Tchad,un programme porté par Simplon, Makesense, l'IRD, financé par l'ambassade de France.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=innocentall&label=Profile%20views&color=0e75b6&style=flat" alt="innocentall" /> </p>
 
