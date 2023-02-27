@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/all_djim" target="blank"><img src="https://img.shields.io/twitter/follow/all_djim?logo=twitter&style=for-the-badge" alt="all_djim" /></a> </p>
 
-- 🌱 j'apprends actuellement **Frameworks, base de donnéés, python,git et github**
+- 🌱 j'apprends actuellement **Frameworks(Django,Bootstrap,Laravel), base de donnéés, python,git et github**
 
 - 👨‍💻 Tous mes projets sont disponibles [ici](https://github.com/InnocentAll)
 
