@@ -1,5 +1,5 @@
 <h2 align="center">Salut 👋, je suis ALLAMADJI DJIMRASSEM Innocent</h2>
-<p align="center">Passionné par le développement depuis N'Djamena.
+<p align="center">Passionné par le développement et les données depuis N'Djamena.
   Actuellement en formation de Developper Data,chez Tech4 Tchad,un programme porté par Simplon, Makesense, l'IRD, financé par l'ambassade de France.</p>
 
 
