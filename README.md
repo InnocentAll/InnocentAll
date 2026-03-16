@@ -2,7 +2,7 @@
 
 <p align="center">Passionné par l'Analyse de Données et la Data Science.
  
- Actuellement étudiant en **Licence professionnelle 'Informatique décisionnelle, statistiques et big data'** à l'**Université d'Aix-Marseille (AMU)**. Je consolide mes compétences en **Python**, **SQL**, **Power BI** et j'explore de nouvelles méthodes pour l'analyse de données (statistiques et machine learning) pour transformer la donnée brute en information exploitable. Toujours à la recherche des nouvelles opportunités d'alternance ou de stage dans l'analyse de données.
+ Actuellement étudiant en **Licence professionnelle 'Informatique décisionnelle, statistiques et big data'** à l'**Université d'Aix-Marseille (AMU)**. Je consolide mes compétences en **Python**, **SQL**, **Power BI** et j'explore de nouvelles méthodes pour l'analyse de données (statistiques et machine learning) pour transformer la donnée brute en information exploitable. Toujours à la recherche des nouvelles opportunités de stage en Avril et d'alternance en septembre dans l'analyse de données.
 </p>
 
 
