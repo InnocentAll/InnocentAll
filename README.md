@@ -91,17 +91,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
   <img src="https://www.jamovi.org/assets/images/jamovi-logo.png" alt="jamovi" width="40" height="40"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/87/SAS_Institute_logo.svg/400px-SAS_Institute_logo.svg.png" alt="sas" width="50" height="30"/> 
+  height="30"/> 
 </p>
 
 <h3 align="left">Mes Statistiques GitHub:</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=innocentall&show_icons=true&locale=fr&theme=radical" alt="Stats de Innocent" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=innocentall&show_icons=true&locale=fr&layout=compact&theme=radical" alt="Langages les plus utilisés" />
-</p>
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=innocentall&theme=radical" alt="Streak Stats" />
