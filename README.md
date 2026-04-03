@@ -2,16 +2,12 @@
 
 <p align="center">
   <strong>Data Scientist | Analyste de Données | Étudiant en Big Data</strong><br>
-  Passionné par l'extraction de connaissances à partir de données complexes pour faciliter la prise de décision.
+  Passionné par l'extraction de connaissances à partir de données complexes.
 </p>
 
 <p align="center">
-  🎓 Actuellement en <strong>Licence Professionnelle Métiers du décisionnel et de la statistique (MDS)</strong> à l'<strong>Université d'Aix-Marseille</strong>. 
-  Je me spécialise dans le <strong>Deep Learning</strong>, le <strong>NLP</strong> et l'analyse prédictive.
-</p>
-
-<p align="center">
-  🚀 À la recherche d'un <strong>stage de 6 mois (avril 2026)</strong> et d'une <strong>alternance en Master</strong> pour septembre 2026.
+  🎓 <strong>Licence Pro MDS</strong> à l'<strong>Université d'Aix-Marseille</strong>.<br>
+  🚀 Recherche un <strong>stage de 6 mois (avril 2026)</strong> et une <strong>alternance</strong> (septembre 2026).
 </p>
 
 <p align="center">
@@ -22,56 +18,61 @@
 
 ### 🔍 En bref...
 
-- 🧠 J'approfondis mes compétences en **Machine Learning** (Scikit-learn) et **Deep Learning** (Keras, TensorFlow).
-- 📊 Expertise en **Visualisation de données** avec Power BI et Python (Matplotlib, Seaborn).
-- 💻 Projets récents : Détection d'anomalies (Isolation Forest) et Analyse de données de santé.
-- 🌍 Langues : Français (Maternel), Anglais (Intermédiaire), Russe (En apprentissage).
-- 📝 Je partage mes astuces tech via **InnoTech Solutions**.
+- 🧠 **Machine Learning & Deep Learning** (Scikit-learn, TensorFlow, Keras).
+- 📊 **Data Viz** : Power BI, Matplotlib, Seaborn.
+- 🛠️ **Projets** : Détection d'anomalies (Isolation Forest), NLP, Data Warehouse.
+- 📝 Articles tech sur **InnoTech Solutions**.
 
 ---
 
 ### 🛠️ Langages et Outils
 
-#### Data Science & IA
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="sklearn" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/87/SAS_Institute_logo.svg/400px-SAS_Institute_logo.svg.png" alt="sas" width="50" height="30"/>
-</p>
-
-#### Bases de données & BI
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/PowerBI.svg" alt="powerbi" width="40" height="40"/>
-</p>
-
-#### Développement & DevOps
-<p align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/scrum-org/scrum-org-icon.svg" alt="scrum" width="40" height="40"/>
-</p>
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <strong>Data Science & IA</strong><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+      <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+    </td>
+    <td width="33%" valign="top">
+      <strong>Bases de données & BI</strong><br>
+      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
+    </td>
+    <td width="33%" valign="top">
+      <strong>Dev & Outils</strong><br>
+      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 📈 Mes Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=innocentall&show_icons=true&theme=tokyonight&locale=fr" alt="Stats de Innocent" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=innocentall&show_icons=true&locale=fr&layout=compact&theme=tokyonight" alt="Langages les plus utilisés" />
+  <img src="https://github-readme-stats.vercel.app/api?username=innocentall&show_icons=true&theme=radical&locale=fr"alt="Stats de Innocent" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=innocentall&show_icons=true&locale=fr&layout=compact&theme=radical" alt="Langages les plus utilisés" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=innocentall&theme=radical" alt="Streak Stats" />
 </p>
 
 ---
 
-### 🤝 Me contacter / Me suivre
+### 🤝 Me contacter
 
-<p align="left">
-<a href="https://linkedin.com/in/djimrassem-innocent-allamadji-b94789263/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="mailto:allamdjidjimrasseminnocent@gmail.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Email" height="30" width="40" /></a>
-<a href="https://fb.com/profile.php?id=100088193981070" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="InnoTech Solutions" height="30" width="40" /></a>
-<a href="https://innocentall.github.io/" target="blank"><img src="https://img.shields.io/badge/Portfolio-Site_Web-blue?style=flat-square" height="30" /></a>
+<p align="center">
+<a href="https://linkedin.com/in/djimrassem-innocent-allamadji-b94789263/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:allamdjidjimrasseminnocent@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://innocentall.github.io/" target="blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
