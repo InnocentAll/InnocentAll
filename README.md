@@ -1,54 +1,65 @@
 <h2 align="center">Salut 👋, je suis ALLAMADJI Innocent</h2>
 
-<p align="center">Passionné par l'Analyse de Données et la Data Science.
- 
- Actuellement étudiant en **Licence professionnelle 'Informatique décisionnelle, statistiques et big data'** à l'**Université d'Aix-Marseille (AMU)**. Je consolide mes compétences en **Python**, **SQL**, **Power BI** et j'explore de nouvelles méthodes pour l'analyse de données (statistiques et machine learning) pour transformer la donnée brute en information exploitable. Toujours à la recherche des nouvelles opportunités de stage en Avril et d'alternance en septembre dans l'analyse de données.
+<h1 align="center">Salut 👋, moi c'est Innocent</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=InnocentAll&label=Profil%20Vues&color=0e75b6&style=flat" alt="InnocentAll" />
 </p>
 
+<p align="center">
+  <strong>🚀 Passionné par l'Analyse de Données, le Machine Learning et le Deep Learning.</strong><br>
+  Actuellement en <b>Licence Pro Statistiques et Big Data</b> à l'Université d'Aix-Marseille (AMU).
+</p>
 
+<p align="center">
+  🎯 <b>Recherche active :</b> <br>
+  📍 Stage de 6 mois (Dès Avril 2026) <br>
+  📍 Alternance Master Data Science (Septembre 2026)
+</p>
 
-<p align="left"> <a href="https://twitter.com/all_djim" target="blank"><img src="https://img.shields.io/twitter/follow/all_djim?logo=twitter&style=for-the-badge" alt="all_djim" /></a> </p>
+---
 
+### 🧐 À propos de moi
 
-- 🎓 J'étudie actuellement à l'**Université d'Aix-Marseille (AMU)** et j'approfondis mes compétences en **Analyse Statistique** (avec **SAS, Jamovi**) et en **Gestion de Projets Data** (en utilisant **Git, GitHub et GitLab**).
+- 🎓 J'approfondis mes connaissances en **Analyse Statistique** (SAS, Jamovi) et **IA** (NLP, Computer Vision).
+- 🛠️ En ce moment, je travaille sur des modèles de détection d'anomalies et d'extraction d'informations.
+- ✍️ Je partage mes astuces tech sur ma page **InnoTech Solutions**.
+- 🌍 Je parle Français, Anglais (Intermédiaire) et j'apprends le Russe.
 
+---
 
-- 👨‍💻 Tous mes projets sont disponibles [ici](https://github.com/InnocentAll)
+### 🛠️ Compétences Techniques
 
+| Domaine | Outils & Langages |
+| :--- | :--- |
+| **Data Science & IA** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) |
+| **Data Viz & BI** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=microsoft-power-bi&logoColor=black) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) |
+| **Bases de données** | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) ![NoSQL](https://img.shields.io/badge/NoSQL-47A248?style=flat&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) |
+| **Développement** | ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) |
 
-- 📝 J'écris régulièrement des articles sur [ma_page](https://www.facebook.com/profile.php?id=100088193981070)
+---
 
+### 📈 Projets Récents
 
-- 📫 Comment me joindre **allamdjidjimrasseminnocent@gmail.com**
+- **[IsolationForest-Health-CPAM](https://github.com/InnocentAll)** : Détection d'anomalies dans les données de facturation de l'Assurance Maladie via l'algorithme Isolation Forest (Python, Scikit-Learn).
+- **ImmoPredict 2025** : Outil de prédiction des prix immobiliers utilisant des modèles de régression avancés.
+- **BPCE Data Warehouse** : Conception d'un dashboard de suivi de performance des prêts bancaires.
 
+---
 
-- 📄 Connaître mes expériences [mon_site](https://innocentall.github.io/)
-
-
-<h3 align="left">Trouvez moi sur:</h3>
+### 🤝 Contactez-moi
 
 <p align="left">
-
-<a href="https://twitter.com/all_djim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="all_djim" height="30" width="40" /></a>
-
-<a href="https://linkedin.com/in/allamadjidjimrasseminnocent" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="allamadjidjimrasseminnocent" height="30" width="40" /></a>
-
-<a href="https://fb.com/innotech solutions" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="innotech solutions" height="30" width="40" /></a>
-
-<a href="https://www.hackerrank.com/allamadjidjimra1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="allamadjidjimra1" height="30" width="40" /></a>
-
+<a href="https://linkedin.com/in/djmrassem-innocent-allamadji-b94789263/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:allamdjidjimrasseminnocent@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://innotech-solutions.fr" target="blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" /></a>
 </p>
 
+---
 
-<h3 align="left">Langages et outils:</h3>
+### 📊 Statistiques GitHub
 
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.jamovi.org/" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/rN9gQ1w.png" alt="jamovi" width="40" height="40"/> </a> <a href="https://www.sas.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/87/SAS_Institute_logo.svg/400px-SAS_Institute_logo.svg.png" alt="sas" width="40" height="40"/> </a> </p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=innocentall&show_icons=true&locale=en&layout=compact" alt="innocentall" /></p>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=innocentall&show_icons=true&locale=en" alt="innocentall" /></p>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=innocentall&" alt="innocentall" /></p>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=innocentall&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=innocentall&layout=compact&theme=radical" />
+</p>
