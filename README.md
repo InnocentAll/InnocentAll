@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  🎓 J'approfondis mes compétences en <strong>Machine Learning</strong> (Scikit-learn) et <strong>Deep Learning</strong> (Keras, TensorFlow).
+  🎓 Je me spécialise dans le <strong>Machine Learning</strong> (Scikit-learn) et le <strong>Deep Learning</strong> (Keras, TensorFlow)pour l'analyse prédictive.
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 
 <br>
 
-- 🧠 J'approfondis mes compétences en **Analyse Statistique** (avec **SAS, Jamovi**) et en **Gestion de Projets Data** (en utilisant **Git, GitHub et GitLab**).
+- 🧠 J'approfondis mes compétences en **Analyse Statistique** (avec **R, Jamovi**) et en **Gestion de Projets Data** ( **Git, GitHub et GitLab**).
 - 👨‍💻 Tous mes projets sont disponibles [ici](https://github.com/InnocentAll).
 - 📝 J'écris régulièrement des articles sur [ma_page](https://www.facebook.com/profile.php?id=100088193981070).
 - 📫 Comment me joindre **allamdjidjimrasseminnocent@gmail.com**.
