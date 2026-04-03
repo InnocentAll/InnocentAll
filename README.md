@@ -6,11 +6,11 @@
 </p>
 
 <p align="center">
-  🎓 Je me spécialise dans le <strong>Machine Learning</strong> (Scikit-learn) et le <strong>Deep Learning</strong> (Keras, TensorFlow)pour l'analyse prédictive.
+  Je me spécialise dans le <strong>Machine Learning</strong> (Scikit-learn) et le <strong>Deep Learning</strong> (Keras, TensorFlow)pour l'analyse prédictive.
 </p>
 
 <p align="center">
-  🚀 Toujours à la recherche de nouvelles opportunités de stage en Avril et d'alternance en septembre dans l'analyse de données.
+  Toujours à la recherche de nouvelles opportunités de stage en Avril et d'alternance en septembre dans l'analyse de données.
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@
 
 ---
 
-### 🛠️ Langages et Outils
+### Langages et Outils
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
