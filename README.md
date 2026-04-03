@@ -60,6 +60,14 @@
 </p>
 ---
 
+<h3 align="left">📉 Mes Statistiques GitHub</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=innocentall&show_icons=true&locale=fr&theme=dark&cache_seconds=1800" alt="Stats GitHub" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=innocentall&show_icons=true&locale=fr&layout=compact&theme=dark&cache_seconds=1800" alt="Top Langages" />
+</p>
+
 ### 🤝 Me contacter / Me suivre
 
 <p align="left">
