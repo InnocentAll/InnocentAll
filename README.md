@@ -1,73 +1,77 @@
 <h2 align="center">Salut 👋, je suis ALLAMADJI Innocent</h2>
 
-<h1 align="center">Salut 👋, je suis ALLAMADJI Innocent</h1>
-
 <p align="center">
-  <strong>Data Scientist | Analyste de Données | Étudiant en Licence Pro MDS</strong><br>
-  Passionné par l'extraction de valeur à partir des données, le Machine Learning et la Business Intelligence.
+  <strong>Data Scientist | Analyste de Données | Étudiant en Big Data</strong><br>
+  Passionné par l'extraction de connaissances à partir de données complexes pour faciliter la prise de décision.
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/djimrassem-innocent-allamadji-b94789263/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:allamdjidjimrasseminnocent@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://twitter.com/all_djim" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  🎓 Actuellement en <strong>Licence Professionnelle Métiers du décisionnel et de la statistique (MDS)</strong> à l'<strong>Université d'Aix-Marseille</strong>. 
+  Je me spécialise dans le <strong>Deep Learning</strong>, le <strong>NLP</strong> et l'analyse prédictive.
+</p>
+
+<p align="center">
+  🚀 À la recherche d'un <strong>stage de 6 mois (avril 2026)</strong> et d'une <strong>alternance en Master</strong> pour septembre 2026.
+</p>
+
+<p align="center">
+  <a href="https://twitter.com/all_djim" target="blank"><img src="https://img.shields.io/twitter/follow/all_djim?logo=twitter&style=for-the-badge&color=1DA1F2" alt="all_djim" /></a>
 </p>
 
 ---
 
-### 🚀 À propos de moi
+### 🔍 En bref...
 
-- 🎓 Actuellement en **Licence Professionnelle Métiers du décisionnel et de la statistique (MDS)** à l'**Université d'Aix-Marseille**.
-- 🔍 Spécialisé en **Analyse Statistique, Machine Learning (NLP, Deep Learning)** et **Big Data**.
-- 🛠️ En recherche active d'un **stage de 6 mois (dès Avril 2026)** et d'une **alternance en Master** pour la rentrée de Septembre.
-- ✍️ Je partage mes astuces tech sur ma page **InnoTech Solutions**.
+- 🧠 J'approfondis mes compétences en **Machine Learning** (Scikit-learn) et **Deep Learning** (Keras, TensorFlow).
+- 📊 Expertise en **Visualisation de données** avec Power BI et Python (Matplotlib, Seaborn).
+- 💻 Projets récents : Détection d'anomalies (Isolation Forest) et Analyse de données de santé.
+- 🌍 Langues : Français (Maternel), Anglais (Intermédiaire), Russe (En apprentissage).
+- 📝 Je partage mes astuces tech via **InnoTech Solutions**.
 
 ---
 
-### 🛠️ Compétences Techniques
+### 🛠️ Langages et Outils
 
-**Analyse de Données & IA**
+#### Data Science & IA
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" alt="R" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white" alt="Apache Spark" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="sklearn" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/87/SAS_Institute_logo.svg/400px-SAS_Institute_logo.svg.png" alt="sas" width="50" height="30"/>
 </p>
 
-**Bases de Données & BI**
+#### Bases de données & BI
 <p align="left">
-  <img src="https://img.shields.io/badge/SQL-CC0000?style=flat&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black" alt="Power BI" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/PowerBI.svg" alt="powerbi" width="40" height="40"/>
 </p>
 
-**Développement & Outils**
+#### Développement & DevOps
 <p align="left">
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/scrum-org/scrum-org-icon.svg" alt="scrum" width="40" height="40"/>
 </p>
 
 ---
 
-### 📊 Statistiques GitHub
+### 📈 Mes Statistiques GitHub
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=innocentall&show_icons=true&theme=radical&locale=fr" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=innocentall&layout=compact&theme=radical&locale=fr" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=innocentall&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=innocentall&show_icons=true&theme=tokyonight&locale=fr" alt="Stats de Innocent" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=innocentall&show_icons=true&locale=fr&layout=compact&theme=tokyonight" alt="Langages les plus utilisés" />
 </p>
 
 ---
 
-### 🔗 Liens Utiles
-- 📂 [Portfolio de Projets](https://github.com/InnocentAll)
-- 🌐 [Site Personnel](https://innocentall.github.io/)
-- 📝 [Blog / Facebook Page](https://fb.com/innotech%20solutions)
+### 🤝 Me contacter / Me suivre
+
+<p align="left">
+<a href="https://linkedin.com/in/djimrassem-innocent-allamadji-b94789263/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="mailto:allamdjidjimrasseminnocent@gmail.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Email" height="30" width="40" /></a>
+<a href="https://fb.com/profile.php?id=100088193981070" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="InnoTech Solutions" height="30" width="40" /></a>
+<a href="https://innocentall.github.io/" target="blank"><img src="https://img.shields.io/badge/Portfolio-Site_Web-blue?style=flat-square" height="30" /></a>
+</p>
