@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  🎓 J'approfondis mes compétences en **Machine Learning** (Scikit-learn) et **Deep Learning** (Keras, TensorFlow).
+  🎓 J'approfondis mes compétences en <strong>Machine Learning</strong> (Scikit-learn) et <strong>Deep Learning</strong> (Keras, TensorFlow).
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
   <a href="https://twitter.com/all_djim" target="blank"><img src="https://img.shields.io/twitter/follow/all_djim?logo=twitter&style=for-the-badge&color=1DA1F2" alt="all_djim" /></a>
 </p>
 
-<br><br>
+<br>
 
 - 🧠 J'approfondis mes compétences en **Analyse Statistique** (avec **SAS, Jamovi**) et en **Gestion de Projets Data** (en utilisant **Git, GitHub et GitLab**).
 - 👨‍💻 Tous mes projets sont disponibles [ici](https://github.com/InnocentAll).
