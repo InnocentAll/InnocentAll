@@ -19,7 +19,7 @@
 
 <br>
 
-- 🧠 J'approfondis mes compétences en **Analyse Statistique** (avec **R, Jamovi**) et en **Gestion de Projets Data** ( **Git, GitHub et GitLab**).
+- 🧠 J'approfondis mes compétences en **Analyse Statistique** (avec **R, Jamovi**) et en **Gestion de Projets Data** ( **Git, GitHub et Scrum**).
 - 👨‍💻 Tous mes projets sont disponibles [ici](https://github.com/InnocentAll).
 - 📝 J'écris régulièrement des articles sur [ma_page](https://www.facebook.com/profile.php?id=100088193981070).
 - 📫 Comment me joindre **allamdjidjimrasseminnocent@gmail.com**.
