@@ -50,29 +50,59 @@
 
 ---
 
-### 📉 Mes Statistiques GitHub
+<h2 align="center">Salut 👋, je suis ALLAMADJI Innocent</h2>
 
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=innocentall&show_icons=true&locale=fr&hide=issues&theme=radical" alt="GitHub Stats d'Innocent" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=innocentall&show_icons=true&locale=fr&layout=compact&langs_count=8&theme=radical" alt="Top Langages d'Innocent" />
-</p>
----
-
-<h3 align="left">📉 Mes Statistiques GitHub</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=innocentall&show_icons=true&locale=fr&theme=dark&cache_seconds=1800" alt="Stats GitHub" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=innocentall&show_icons=true&locale=fr&layout=compact&theme=dark&cache_seconds=1800" alt="Top Langages" />
+<p align="center">Passionné par l'Analyse de Données et la Data Science.
+ 
+ Actuellement étudiant en **Licence professionnelle 'Informatique décisionnelle, statistiques et big data'** à l'**Université d'Aix-Marseille (AMU)**. Je consolide mes compétences en **Python (Scikit-learn, TensorFlow)**, **SQL**, **Power BI** et j'explore de nouvelles méthodes pour l'analyse de données (statistiques et machine learning) pour transformer la donnée brute en information exploitable. Toujours à la recherche des nouvelles opportunités de stage en Avril et d'alternance en septembre dans l'analyse de données.
 </p>
 
-### 🤝 Me contacter / Me suivre
+<p align="left"> <a href="https://twitter.com/all_djim" target="blank"><img src="https://img.shields.io/twitter/follow/all_djim?logo=twitter&style=for-the-badge" alt="all_djim" /></a> </p>
+
+- 🎓 J'étudie actuellement à l'**Université d'Aix-Marseille (AMU)** et j'approfondis mes compétences en **Machine Learning / Deep Learning** et en **Gestion de Projets Data** (en utilisant **Git, GitHub et GitLab**).
+
+- 👨‍💻 Tous mes projets sont disponibles [ici](https://github.com/InnocentAll)
+
+- 📝 J'écris régulièrement des articles sur [ma_page](https://www.facebook.com/profile.php?id=100088193981070)
+
+- 📫 Comment me joindre **allamdjidjimrasseminnocent@gmail.com**
+
+- 📄 Connaître mes expériences [mon_site](https://innocentall.github.io/)
+
+<h3 align="left">Trouvez moi sur:</h3>
+<p align="left">
+<a href="https://twitter.com/all_djim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="all_djim" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/djimrassem-innocent-allamadji-b94789263/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://fb.com/profile.php?id=100088193981070" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/allamadjidjimra1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="allamadjidjimra1" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Langages et outils:</h3>
+<p align="left"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
+  <img src="https://www.jamovi.org/assets/images/jamovi-logo.png" alt="jamovi" width="40" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/87/SAS_Institute_logo.svg/400px-SAS_Institute_logo.svg.png" alt="sas" width="50" height="30"/> 
+</p>
+
+<h3 align="left">Mes Statistiques GitHub:</h3>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=innocentall&show_icons=true&locale=fr&theme=radical" alt="Stats de Innocent" />
+</p>
 
 <p align="left">
-<a href="https://linkedin.com/in/djimrassem-innocent-allamadji-b94789263/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="mailto:allamdjidjimrasseminnocent@gmail.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Email" height="30" width="40" /></a>
-<a href="https://fb.com/profile.php?id=100088193981070" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="InnoTech Solutions" height="30" width="40" /></a>
-<a href="https://innocentall.github.io/" target="blank"><img src="https://img.shields.io/badge/Portfolio-Site_Web-blue?style=flat-square" height="30" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=innocentall&show_icons=true&locale=fr&layout=compact&theme=radical" alt="Langages les plus utilisés" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=innocentall&theme=radical" alt="Streak Stats" />
 </p>
