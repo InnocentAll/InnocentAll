@@ -52,13 +52,23 @@
 
 ### 📉 Mes Statistiques GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=innocentall&show_icons=true&locale=fr&theme=dark" alt="Stats de Innocent" />
-</p>
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub Logo" width="30" height="30"/>
+  Mes Statistiques GitHub
+</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=innocentall&show_icons=true&locale=fr&layout=compact&theme=dark" alt="Langages les plus utilisés" />
-</p>
+<div align="center">
+  <hr>
+  <h3>Activité Globale</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=innocentall&show_icons=true&locale=fr&theme=github_dark&count_private=true&include_all_commits=true&cache=876543" alt="Statistiques détaillées de InnocentAll" />
+
+  <br><br>
+
+  <hr>
+  <h3>Langages les plus utilisés</h3>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=innocentall&show_icons=true&locale=fr&layout=compact&theme=github_dark&langs_count=8&cache=123456" alt="Langages principaux de InnocentAll" />
+  <hr>
+</div>
 
 ---
 
