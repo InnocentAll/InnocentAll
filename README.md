@@ -48,9 +48,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
 </p>
 
----
-
-<h3 align="left">Mes Statistiques GitHub:</h3>
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=innocentall&theme=radical" alt="Streak Stats" />
