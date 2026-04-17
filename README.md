@@ -23,7 +23,7 @@
 - 👨‍💻 Tous mes projets sont disponibles [ici](https://github.com/InnocentAll).
 - 📝 J'écris régulièrement des articles sur [ma_page](https://www.facebook.com/profile.php?id=100088193981070).
 - 📫 Comment me joindre **allamdjidjimrasseminnocent@gmail.com**.
-- 📄 Connaître mes expériences [mon_site](https://innocentall.github.io/).
+- 📄 Connaître mes expériences [mon_portfolio](https://innocentall.github.io/).
 
 ---
 ### Langages et Outils
